@@ -1,0 +1,41 @@
+
+.cardgroup{
+
+  padding-left: 250px;
+  padding-right: 250px;
+  display: flex;
+
+  flex-wrap: wrap;
+
+  justify-content: space-between;
+
+  align-content: space-between
+  ;
+
+ 
+}
+
+
+.cardimg{
+
+  width:200px;
+  height: 200px;
+  padding-left: 40px;
+}
+
+
+
+.link:hover {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: blue
+  }
+
+  .link {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+   text-decoration: none;
+  }
+ 
+  
+ 
